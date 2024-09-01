@@ -1,12 +1,14 @@
-# [Colmar Academy](https://estherwhite-yt.github.io/Colmar-Academy/)
+## OLD PROJECT - June 2020
 
-### June 2020
+### Please note that this is an older project, and my coding style and skills have evolved significantly since then. I encourage you to check out my more recent work by visiting [monacodelisa.com](https://monacodelisa.com) or [my GitHub](https://github.com/monacodelisa).
+
+# [Colmar Academy](https://estherwhite-yt.github.io/Colmar-Academy/)
 
 This project was originally completed in June 2020 as part of the **Build a Website with HTML, CSS, and GitHub Pages** skill path by CodeCademy.
 
-### Please check out my more recent work by visiting [monacodelisa.com](https://monacodelisa.com) or [my GitHub](https://github.com/monacodelisa). 
-
 Long after completing the project, I moved it to this repository under my GitHub organization dedicated to projects featured in my YouTube videos. This move enhances both management and visibility.
+
+Aside from moving the project and updating the README, the code has not been changed or maintained since the original completion date. A ZIP file of the original project is also included within this repository.
 
 I have documented my workflow in the following videos:
 
